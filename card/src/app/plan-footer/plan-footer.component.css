@@ -1,0 +1,38 @@
+.footer {
+    background-color: #f8f9fa;
+    color: #212529;
+    padding: 20px;
+    font-size: 0.875rem;
+  }
+  .footer h3 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  .footer a {
+    display: block;
+    color: #212529;
+    text-decoration: none;
+    margin-bottom: 0.25rem;
+  }
+  .footer .footer-social-download {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 1rem;
+  }
+  .footer .social-icons a {
+    font-size: 1.5rem;
+    color: #212529;
+    margin-right: 0.5rem;
+  }
+  .footer .download-links a {
+    margin-right: 0.5rem;
+  }
+  .footer .footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 1rem;
+    border-top: 1px solid #dee2e6;
+    margin-top: 1rem;
+  }
